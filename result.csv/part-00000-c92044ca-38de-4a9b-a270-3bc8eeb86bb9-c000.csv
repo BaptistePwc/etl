@@ -1,0 +1,8 @@
+date,home_team_abbreviation,home_team_city,home_team_conference,home_team_division,home_team_full_name,home_team_id,home_team_name,home_team_score,visitor_team_abbreviation,visitor_team_city,visitor_team_conference,visitor_team_division,visitor_team_full_name,visitor_team_id,visitor_team_name,visitor_team_score
+2021-08-10T00:00:00.000Z,POR,Portland,West,Northwest,Portland Trail Blazers,25,Trail Blazers,86,LAC,LA,West,Pacific,LA Clippers,13,Clippers,66
+2021-08-10T00:00:00.000Z,IND,Indiana,East,Central,Indiana Pacers,12,Pacers,83,ATL,Atlanta,East,Southeast,Atlanta Hawks,1,Hawks,84
+2021-08-11T00:00:00.000Z,BKN,Brooklyn,East,Atlantic,Brooklyn Nets,3,Nets,97,MIL,Milwaukee,East,Central,Milwaukee Bucks,17,Bucks,91
+2021-10-04T00:00:00.000Z,MIA,Miami,East,Southeast,Miami Heat,16,Heat,125,ATL,Atlanta,East,Southeast,Atlanta Hawks,1,Hawks,99
+2021-08-12T00:00:00.000Z,DEN,Denver,West,Northwest,Denver Nuggets,8,Nuggets,84,PHX,Phoenix,West,Pacific,Phoenix Suns,24,Suns,90
+2021-08-12T00:00:00.000Z,ATL,Atlanta,East,Southeast,Atlanta Hawks,1,Hawks,88,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,23,76ers,96
+2021-10-04T00:00:00.000Z,SAC,Sacramento,West,Pacific,Sacramento Kings,26,Kings,117,PHX,Phoenix,West,Pacific,Phoenix Suns,24,Suns,106

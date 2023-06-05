@@ -1,0 +1,12 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/ApacheSpark/NBA/Projet/src/main/scala/Transform.scala:40:33: not found: value colonnesExistantes[0m
+[0m[[0m[31merror[0m] [0m[0m    val group = jointure.select(colonnesExistantes.map(col) ++ nouvellesColonnes: _*)[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/ApacheSpark/NBA/Projet/src/main/scala/Transform.scala:40:56: missing argument list for method col in object functions[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `col _` or `col(_)` instead of `col`.[0m
+[0m[[0m[31merror[0m] [0m[0m    val group = jointure.select(colonnesExistantes.map(col) ++ nouvellesColonnes: _*)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/ApacheSpark/NBA/Projet/src/main/scala/Transform.scala:69:7: not found: value */[0m
+[0m[[0m[31merror[0m] [0m[0m    */*/[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
